@@ -104,7 +104,7 @@ module.exports = {
 		// @type     string
 		// @default  "Freenode"
 		//
-		name: "Freenode",
+		name: "The CAT",
 
 		//
 		// Host
@@ -112,7 +112,7 @@ module.exports = {
 		// @type     string
 		// @default  "irc.freenode.org"
 		//
-		host: "irc.freenode.org",
+		host: "iss.cat.pdx.edu",
 
 		//
 		// Port
@@ -160,7 +160,7 @@ module.exports = {
 		// @type     string
 		// @default  "#foo, #shout-irc"
 		//
-		join: "#foo, #shout-irc"
+		join: ""
 	},
 
 	//
